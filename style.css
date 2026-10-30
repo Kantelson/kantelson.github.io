@@ -55,4 +55,3 @@ footer{max-width:41.5rem;margin:0 auto;padding:1.5rem 1.25rem 2.5rem;font-size:.
 .person>p.small{color:var(--fg);margin-bottom:1.25rem}
 .person .post{border-top:1px solid var(--line);padding-top:.9rem}
 @media (max-width:640px){.people{grid-template-columns:1fr}}
-.lead br{display:block}@media (max-width:640px){.lead br{display:none}}
